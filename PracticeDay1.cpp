@@ -4,7 +4,7 @@ using namespace std;
 
 void IRoundShiftMas(int* source, int n, int size);
 void TestIRoundShiftMas(int n, int size);
-
+//Комментарий для задания 2
 int main()
 {
 	setlocale(LC_ALL, "Russian");
